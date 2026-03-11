@@ -1,6 +1,6 @@
 # Wix Website Project
 
-Project for helping with your friend's Wix website.
+Project for helping with the soundjoyful Wix website.
 
 ## Sounds Joyful — Workplace Wellbeing Content
 
